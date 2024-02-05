@@ -1,11 +1,11 @@
-### Hi there 👋
+# Hi there 👋
 ## Welcome to Think People Ltd.
-# We offer digital training skills to individuals and organizations. We are passionate about bridging the gap between the common man and digital skills. Over the years, we’ve trained thousands of people in the acquisition of digital skills and helped them become tech professionals.
+### We offer digital training skills to individuals and organizations. We are passionate about bridging the gap between the common man and digital skills. Over the years, we’ve trained thousands of people in the acquisition of digital skills and helped them become tech professionals.
 
 We train and equip our students with in-demand digital skills such as Web Development, Digital Marketing, Data Analysis, Mobile App Development, Graphic Design and so much more.
 
 Looking to learn a digital skill?
-email us thinkpeopleltd@gmail.com
+### email us thinkpeopleltd@gmail.com
 <!--
 **thinkpeopleltd/thinkpeopleltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
